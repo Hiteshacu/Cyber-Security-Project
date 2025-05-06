@@ -1,0 +1,635 @@
+2025-05-02 23:08:42,823 - INFO - Privacy monitoring started
+2025-05-02 23:08:42,957 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:08:42,958 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:08:48,273 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:09:24,218 - INFO - End of creating cross references (XREF)
+2025-05-02 23:09:24,218 - INFO - run time: 0min 08s
+2025-05-02 23:09:24,250 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:10:00,037 - INFO - End of creating cross references (XREF)
+2025-05-02 23:10:00,037 - INFO - run time: 0min 08s
+2025-05-02 23:10:23,008 - INFO - Privacy monitoring started
+2025-05-02 23:10:28,581 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:10:28,582 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:11:57,888 - INFO - Privacy monitoring started
+2025-05-02 23:11:57,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:11:57,980 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:12:02,482 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:12:40,096 - INFO - End of creating cross references (XREF)
+2025-05-02 23:12:40,096 - INFO - run time: 0min 08s
+2025-05-02 23:12:40,127 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:13:16,442 - INFO - End of creating cross references (XREF)
+2025-05-02 23:13:16,442 - INFO - run time: 0min 08s
+2025-05-02 23:13:38,619 - INFO - Privacy monitoring started
+2025-05-02 23:13:45,278 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:13:45,279 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:15:54,067 - INFO - Privacy monitoring started
+2025-05-02 23:15:54,161 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:15:54,162 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:15:58,100 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:16:34,086 - INFO - End of creating cross references (XREF)
+2025-05-02 23:16:34,086 - INFO - run time: 0min 08s
+2025-05-02 23:16:34,107 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:17:11,936 - INFO - End of creating cross references (XREF)
+2025-05-02 23:17:11,936 - INFO - run time: 0min 09s
+2025-05-02 23:17:33,963 - INFO - Privacy monitoring started
+2025-05-02 23:17:39,601 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:17:39,602 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:19:49,860 - INFO - Privacy monitoring started
+2025-05-02 23:19:50,035 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:19:50,036 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:19:54,887 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:20:33,691 - INFO - End of creating cross references (XREF)
+2025-05-02 23:20:33,691 - INFO - run time: 0min 09s
+2025-05-02 23:20:33,712 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:21:12,953 - INFO - End of creating cross references (XREF)
+2025-05-02 23:21:12,953 - INFO - run time: 0min 09s
+2025-05-02 23:21:35,901 - INFO - Privacy monitoring started
+2025-05-02 23:21:42,115 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:21:42,115 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:38:01,624 - INFO - Privacy monitoring started
+2025-05-02 23:38:01,738 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:38:01,738 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:38:15,706 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:38:54,649 - INFO - End of creating cross references (XREF)
+2025-05-02 23:38:54,649 - INFO - run time: 0min 08s
+2025-05-02 23:38:54,682 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:39:33,357 - INFO - End of creating cross references (XREF)
+2025-05-02 23:39:33,357 - INFO - run time: 0min 08s
+2025-05-02 23:39:55,974 - INFO - Privacy monitoring started
+2025-05-02 23:40:02,145 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:40:02,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:44:01,792 - INFO - Privacy monitoring started
+2025-05-02 23:44:01,979 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:44:01,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:44:07,310 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:44:48,680 - INFO - End of creating cross references (XREF)
+2025-05-02 23:44:48,681 - INFO - run time: 0min 09s
+2025-05-02 23:44:48,717 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:45:31,158 - INFO - End of creating cross references (XREF)
+2025-05-02 23:45:31,158 - INFO - run time: 0min 09s
+2025-05-02 23:45:53,675 - INFO - Privacy monitoring started
+2025-05-02 23:46:00,083 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:46:00,083 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:46:24,461 - INFO - Privacy monitoring started
+2025-05-02 23:46:24,552 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:46:24,552 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:47:06,203 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:47:43,709 - INFO - End of creating cross references (XREF)
+2025-05-02 23:47:43,710 - INFO - run time: 0min 08s
+2025-05-02 23:47:43,733 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:48:21,226 - INFO - End of creating cross references (XREF)
+2025-05-02 23:48:21,226 - INFO - run time: 0min 08s
+2025-05-02 23:48:44,433 - INFO - Privacy monitoring started
+2025-05-02 23:48:50,703 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:48:50,704 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:52:46,929 - INFO - Privacy monitoring started
+2025-05-02 23:52:47,029 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:52:47,030 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:52:51,740 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:53:29,904 - INFO - End of creating cross references (XREF)
+2025-05-02 23:53:29,904 - INFO - run time: 0min 08s
+2025-05-02 23:53:29,925 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:54:08,097 - INFO - End of creating cross references (XREF)
+2025-05-02 23:54:08,097 - INFO - run time: 0min 08s
+2025-05-02 23:54:30,796 - INFO - Privacy monitoring started
+2025-05-02 23:54:37,168 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:54:37,168 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:57:02,622 - INFO - Privacy monitoring started
+2025-05-02 23:57:02,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:57:02,810 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-02 23:57:06,399 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:57:36,302 - INFO - End of creating cross references (XREF)
+2025-05-02 23:57:36,302 - INFO - run time: 0min 06s
+2025-05-02 23:57:36,324 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-02 23:58:05,808 - INFO - End of creating cross references (XREF)
+2025-05-02 23:58:05,809 - INFO - run time: 0min 06s
+2025-05-02 23:58:28,636 - INFO - Privacy monitoring started
+2025-05-02 23:58:34,968 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-02 23:58:34,968 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:00:50,993 - INFO - Privacy monitoring started
+2025-05-03 00:00:51,106 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:00:51,106 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:00:56,069 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:01:40,270 - INFO - End of creating cross references (XREF)
+2025-05-03 00:01:40,270 - INFO - run time: 0min 10s
+2025-05-03 00:01:40,318 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:02:30,921 - INFO - End of creating cross references (XREF)
+2025-05-03 00:02:30,921 - INFO - run time: 0min 11s
+2025-05-03 00:02:54,145 - INFO - Privacy monitoring started
+2025-05-03 00:03:01,244 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:03:01,244 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:04:53,787 - INFO - Privacy monitoring started
+2025-05-03 00:04:54,045 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:04:54,045 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:05:09,664 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:06:03,954 - INFO - End of creating cross references (XREF)
+2025-05-03 00:06:03,954 - INFO - run time: 0min 11s
+2025-05-03 00:06:03,997 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:06:58,545 - INFO - End of creating cross references (XREF)
+2025-05-03 00:06:58,545 - INFO - run time: 0min 12s
+2025-05-03 00:07:21,614 - INFO - Privacy monitoring started
+2025-05-03 00:07:30,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:07:30,837 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:10:58,529 - INFO - Privacy monitoring started
+2025-05-03 00:10:58,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:10:58,728 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:11:04,652 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:12:00,329 - INFO - End of creating cross references (XREF)
+2025-05-03 00:12:00,329 - INFO - run time: 0min 11s
+2025-05-03 00:12:00,380 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:12:59,639 - INFO - End of creating cross references (XREF)
+2025-05-03 00:12:59,639 - INFO - run time: 0min 13s
+2025-05-03 00:13:22,535 - INFO - Privacy monitoring started
+2025-05-03 00:13:31,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:13:31,836 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:16:45,306 - INFO - Privacy monitoring started
+2025-05-03 00:16:45,427 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:16:45,427 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:16:54,019 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:17:48,869 - INFO - End of creating cross references (XREF)
+2025-05-03 00:17:48,869 - INFO - run time: 0min 16s
+2025-05-03 00:17:48,906 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:18:34,319 - INFO - Privacy monitoring started
+2025-05-03 00:18:34,446 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:18:34,446 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:18:39,766 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:18:39,815 - INFO - End of creating cross references (XREF)
+2025-05-03 00:18:39,815 - INFO - run time: 0min 13s
+2025-05-03 00:19:03,462 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:19:03,462 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:19:03,492 - INFO - Privacy monitoring started
+2025-05-03 00:19:41,700 - INFO - End of creating cross references (XREF)
+2025-05-03 00:19:41,700 - INFO - run time: 0min 12s
+2025-05-03 00:19:42,483 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:19:42,483 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:19:42,503 - INFO - Privacy monitoring started
+2025-05-03 00:21:41,063 - INFO - Privacy monitoring started
+2025-05-03 00:21:41,176 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:21:41,176 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:21:47,639 - INFO - Privacy monitoring started
+2025-05-03 00:21:47,766 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:21:47,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:23:08,903 - INFO - Privacy monitoring started
+2025-05-03 00:23:09,015 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:23:09,016 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:23:33,814 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:24:35,232 - INFO - End of creating cross references (XREF)
+2025-05-03 00:24:35,233 - INFO - run time: 0min 13s
+2025-05-03 00:24:35,297 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:25:33,616 - INFO - End of creating cross references (XREF)
+2025-05-03 00:25:33,616 - INFO - run time: 0min 13s
+2025-05-03 00:29:05,625 - INFO - Privacy monitoring started
+2025-05-03 00:29:05,759 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:29:05,759 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:29:17,184 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:30:12,120 - INFO - End of creating cross references (XREF)
+2025-05-03 00:30:12,120 - INFO - run time: 0min 12s
+2025-05-03 00:30:12,143 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:31:06,268 - INFO - End of creating cross references (XREF)
+2025-05-03 00:31:06,268 - INFO - run time: 0min 13s
+2025-05-03 00:34:20,745 - INFO - Privacy monitoring started
+2025-05-03 00:34:20,874 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 00:34:20,874 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 00:34:34,861 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 00:35:40,528 - INFO - End of creating cross references (XREF)
+2025-05-03 00:35:40,528 - INFO - run time: 0min 14s
+2025-05-03 00:35:40,554 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 10:58:48,087 - INFO - Privacy monitoring started
+2025-05-03 10:58:48,221 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 10:58:48,221 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 10:58:53,766 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 10:59:41,695 - INFO - End of creating cross references (XREF)
+2025-05-03 10:59:41,696 - INFO - run time: 0min 10s
+2025-05-03 10:59:41,743 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:00:29,253 - INFO - End of creating cross references (XREF)
+2025-05-03 11:00:29,253 - INFO - run time: 0min 10s
+2025-05-03 11:00:54,071 - INFO - Privacy monitoring started
+2025-05-03 11:01:01,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:01:01,324 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:02:30,699 - INFO - Privacy monitoring started
+2025-05-03 11:02:30,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:02:30,827 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:04:55,256 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:05:45,958 - INFO - End of creating cross references (XREF)
+2025-05-03 11:05:45,958 - INFO - run time: 0min 11s
+2025-05-03 11:05:45,982 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:06:41,831 - INFO - End of creating cross references (XREF)
+2025-05-03 11:06:41,831 - INFO - run time: 0min 10s
+2025-05-03 11:07:05,813 - INFO - Privacy monitoring started
+2025-05-03 11:07:12,552 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:07:12,552 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:11:37,872 - INFO - Privacy monitoring started
+2025-05-03 11:11:38,052 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:11:38,052 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:11:47,011 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:12:34,685 - INFO - End of creating cross references (XREF)
+2025-05-03 11:12:34,685 - INFO - run time: 0min 10s
+2025-05-03 11:12:34,714 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:13:20,641 - INFO - End of creating cross references (XREF)
+2025-05-03 11:13:20,641 - INFO - run time: 0min 10s
+2025-05-03 11:13:43,140 - INFO - Privacy monitoring started
+2025-05-03 11:13:50,338 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:13:50,339 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:23:33,508 - INFO - Privacy monitoring started
+2025-05-03 11:23:33,632 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:23:33,632 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:23:37,460 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:24:26,846 - INFO - End of creating cross references (XREF)
+2025-05-03 11:24:26,846 - INFO - run time: 0min 08s
+2025-05-03 11:24:26,864 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:25:05,171 - INFO - End of creating cross references (XREF)
+2025-05-03 11:25:05,171 - INFO - run time: 0min 08s
+2025-05-03 11:25:27,441 - INFO - Privacy monitoring started
+2025-05-03 11:25:34,730 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:25:34,730 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:28:06,606 - INFO - Privacy monitoring started
+2025-05-03 11:28:06,692 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:28:06,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:28:13,280 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:28:47,967 - INFO - End of creating cross references (XREF)
+2025-05-03 11:28:47,967 - INFO - run time: 0min 07s
+2025-05-03 11:28:47,984 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:29:23,858 - INFO - End of creating cross references (XREF)
+2025-05-03 11:29:23,858 - INFO - run time: 0min 08s
+2025-05-03 11:29:46,362 - INFO - Privacy monitoring started
+2025-05-03 11:29:53,178 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:29:53,178 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:33:10,608 - INFO - Privacy monitoring started
+2025-05-03 11:33:10,746 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:33:10,746 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:33:52,344 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:34:29,828 - INFO - End of creating cross references (XREF)
+2025-05-03 11:34:29,828 - INFO - run time: 0min 09s
+2025-05-03 11:34:29,846 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:35:07,164 - INFO - End of creating cross references (XREF)
+2025-05-03 11:35:07,164 - INFO - run time: 0min 09s
+2025-05-03 11:35:30,904 - INFO - Privacy monitoring started
+2025-05-03 11:35:38,238 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:35:38,238 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:46:35,631 - INFO - Privacy monitoring started
+2025-05-03 11:46:35,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:46:35,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:46:42,095 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:47:25,254 - INFO - End of creating cross references (XREF)
+2025-05-03 11:47:25,254 - INFO - run time: 0min 09s
+2025-05-03 11:47:25,278 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:48:10,135 - INFO - End of creating cross references (XREF)
+2025-05-03 11:48:10,135 - INFO - run time: 0min 10s
+2025-05-03 11:49:29,370 - INFO - Privacy monitoring started
+2025-05-03 11:49:36,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:49:36,391 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:54:59,752 - INFO - Privacy monitoring started
+2025-05-03 11:54:59,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:54:59,837 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:55:04,955 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:55:46,618 - INFO - End of creating cross references (XREF)
+2025-05-03 11:55:46,619 - INFO - run time: 0min 10s
+2025-05-03 11:55:46,646 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 11:56:30,613 - INFO - End of creating cross references (XREF)
+2025-05-03 11:56:30,613 - INFO - run time: 0min 09s
+2025-05-03 11:56:53,201 - INFO - Privacy monitoring started
+2025-05-03 11:57:01,122 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 11:57:01,122 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:00:11,755 - INFO - Privacy monitoring started
+2025-05-03 12:00:11,997 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:00:11,997 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:00:16,726 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:00:58,157 - INFO - End of creating cross references (XREF)
+2025-05-03 12:00:58,157 - INFO - run time: 0min 09s
+2025-05-03 12:00:58,177 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:01:36,665 - INFO - End of creating cross references (XREF)
+2025-05-03 12:01:36,665 - INFO - run time: 0min 09s
+2025-05-03 12:01:58,755 - INFO - Privacy monitoring started
+2025-05-03 12:02:05,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:02:05,372 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:04:28,947 - INFO - Privacy monitoring started
+2025-05-03 12:04:29,070 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:04:29,070 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:04:34,349 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:05:20,890 - INFO - End of creating cross references (XREF)
+2025-05-03 12:05:20,890 - INFO - run time: 0min 10s
+2025-05-03 12:05:20,925 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:06:04,340 - INFO - End of creating cross references (XREF)
+2025-05-03 12:06:04,341 - INFO - run time: 0min 09s
+2025-05-03 12:06:28,396 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:06:28,396 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:06:28,411 - INFO - Privacy monitoring started
+2025-05-03 12:14:43,820 - INFO - Privacy monitoring started
+2025-05-03 12:14:43,934 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:14:43,934 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:14:48,237 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:15:44,269 - INFO - End of creating cross references (XREF)
+2025-05-03 12:15:44,269 - INFO - run time: 0min 13s
+2025-05-03 12:15:44,297 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:16:36,550 - INFO - End of creating cross references (XREF)
+2025-05-03 12:16:36,552 - INFO - run time: 0min 12s
+2025-05-03 12:16:59,027 - INFO - Privacy monitoring started
+2025-05-03 12:17:06,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:17:06,884 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:20:49,763 - INFO - Privacy monitoring started
+2025-05-03 12:20:49,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:20:49,876 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:20:54,454 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:21:44,417 - INFO - End of creating cross references (XREF)
+2025-05-03 12:21:44,417 - INFO - run time: 0min 11s
+2025-05-03 12:21:44,453 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:22:35,570 - INFO - End of creating cross references (XREF)
+2025-05-03 12:22:35,570 - INFO - run time: 0min 11s
+2025-05-03 12:22:58,016 - INFO - Privacy monitoring started
+2025-05-03 12:23:05,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:23:05,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:27:25,314 - INFO - Privacy monitoring started
+2025-05-03 12:27:25,441 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:27:25,441 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:28:06,597 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:29:04,739 - INFO - End of creating cross references (XREF)
+2025-05-03 12:29:04,739 - INFO - run time: 0min 12s
+2025-05-03 12:29:04,765 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:29:56,704 - INFO - End of creating cross references (XREF)
+2025-05-03 12:29:56,704 - INFO - run time: 0min 11s
+2025-05-03 12:30:21,852 - INFO - Privacy monitoring started
+2025-05-03 12:30:31,229 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:30:31,229 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:34:44,321 - INFO - Privacy monitoring started
+2025-05-03 12:34:44,413 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:34:44,413 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:34:53,448 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:35:57,386 - INFO - End of creating cross references (XREF)
+2025-05-03 12:35:57,386 - INFO - run time: 0min 12s
+2025-05-03 12:35:57,413 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:36:49,067 - INFO - End of creating cross references (XREF)
+2025-05-03 12:36:49,068 - INFO - run time: 0min 11s
+2025-05-03 12:37:11,719 - INFO - Privacy monitoring started
+2025-05-03 12:37:21,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:37:21,370 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:41:02,922 - INFO - Privacy monitoring started
+2025-05-03 12:41:03,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:41:03,075 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:44:20,764 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:45:06,925 - INFO - End of creating cross references (XREF)
+2025-05-03 12:45:06,925 - INFO - run time: 0min 11s
+2025-05-03 12:45:06,989 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 12:45:52,030 - INFO - End of creating cross references (XREF)
+2025-05-03 12:45:52,031 - INFO - run time: 0min 10s
+2025-05-03 12:46:14,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 12:46:14,728 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 12:46:14,729 - INFO - Privacy monitoring started
+2025-05-03 13:05:36,864 - INFO - Privacy monitoring started
+2025-05-03 13:05:37,025 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 13:05:37,025 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 13:05:57,583 - INFO - End of creating cross references (XREF)
+2025-05-03 13:05:57,583 - INFO - run time: 0min 03s
+2025-05-03 13:06:12,901 - INFO - End of creating cross references (XREF)
+2025-05-03 13:06:12,901 - INFO - run time: 0min 03s
+2025-05-03 13:06:13,133 - INFO - Privacy monitoring started
+2025-05-03 13:06:15,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 13:06:15,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 13:13:55,764 - INFO - Privacy monitoring started
+2025-05-03 13:13:55,854 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 13:13:55,854 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 13:13:59,757 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 13:14:46,463 - INFO - End of creating cross references (XREF)
+2025-05-03 13:14:46,463 - INFO - run time: 0min 10s
+2025-05-03 13:14:46,507 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-03 13:15:32,839 - INFO - End of creating cross references (XREF)
+2025-05-03 13:15:32,839 - INFO - run time: 0min 11s
+2025-05-03 13:15:56,380 - INFO - Privacy monitoring started
+2025-05-03 13:16:04,318 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.38.90:5001
+2025-05-03 13:16:04,318 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 10:57:11,018 - INFO - Privacy monitoring started
+2025-05-05 10:57:11,152 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.142.90:5001
+2025-05-05 10:57:11,152 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 10:57:18,540 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-05 10:57:47,441 - INFO - End of creating cross references (XREF)
+2025-05-05 10:57:47,441 - INFO - run time: 0min 05s
+2025-05-05 10:57:47,468 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-05 10:58:14,420 - INFO - End of creating cross references (XREF)
+2025-05-05 10:58:14,421 - INFO - run time: 0min 07s
+2025-05-05 10:58:38,545 - INFO - Privacy monitoring started
+2025-05-05 10:58:43,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.142.90:5001
+2025-05-05 10:58:43,674 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-06 11:08:25,993 - INFO - Privacy monitoring started
+2025-05-06 11:08:26,223 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.37.90:5001
+2025-05-06 11:08:26,224 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-06 11:08:44,940 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-06 11:09:14,069 - INFO - End of creating cross references (XREF)
+2025-05-06 11:09:14,071 - INFO - run time: 0min 06s
+2025-05-06 11:09:14,126 - WARNING - Requested API level 29 is larger than maximum we have, returning API level 28 instead.
+2025-05-06 11:09:56,730 - INFO - End of creating cross references (XREF)
+2025-05-06 11:09:56,730 - INFO - run time: 0min 08s
+2025-05-06 11:10:20,783 - INFO - Privacy monitoring started
+2025-05-06 11:10:26,382 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.37.90:5001
+2025-05-06 11:10:26,382 - INFO - [33mPress CTRL+C to quit[0m

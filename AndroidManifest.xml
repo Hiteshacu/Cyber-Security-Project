@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest ...>
+
+    <!-- Needed to list installed apps (especially on Android 11+) -->
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+    
+    <!-- Needed to send the APK file to your computer -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        ...
+        <!-- Add this if targeting Android P or higher and using HTTP -->
+        android:usesCleartextTraffic="true"
+        ...>
+        <activity ...>
+            ...
+        </activity>
+    </application>
+
+</manifest>

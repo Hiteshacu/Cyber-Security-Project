@@ -1,0 +1,12 @@
+androguard==3.3.5
+flask==2.0.1
+streamlit==1.22.0
+plotly==5.13.0
+pandas==1.5.3
+scikit-learn==1.0.2
+nltk==3.8.1
+numpy==1.23.5
+requests==2.28.2
+urllib3==1.26.15
+shap==0.41.0
+xgboost==1.7.3
